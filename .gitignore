@@ -1,0 +1,49 @@
+# =============================================================================
+# AI-Powered Criminal Network Analysis System
+# =============================================================================
+
+# --- Environment ---
+.env
+*.env.local
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+*.egg
+
+# --- Data Generation Output (regenerable) ---
+data-generation/output/
+
+# --- NLP Trained Models (regenerable) ---
+nlp/ner_model/model/
+
+# --- Node.js (frontend — friend's workspace) ---
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# --- Docker volumes (local data) ---
+pgdata/
+mongodata/
+neo4jdata/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# --- Logs ---
+*.log
+
+# --- Jupyter (if used for exploration) ---
+.ipynb_checkpoints/

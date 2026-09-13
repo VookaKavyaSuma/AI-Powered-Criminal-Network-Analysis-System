@@ -1,0 +1,200 @@
+{"text": "Vehicle KL11JK8899 was seen at Kochi.", "entities": [[8, 18, "VEHICLE"], [31, 36, "LOCATION"]]}
+{"text": "We intercepted a message from 9847012778 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "Vehicle KL07AB1234 was seen at Mattancherry.", "entities": [[8, 18, "VEHICLE"], [31, 43, "LOCATION"]]}
+{"text": "Binoy Joseph was seen exiting KL07GH9090 at Aluva.", "entities": [[0, 12, "PERSON"], [30, 40, "VEHICLE"], [44, 49, "LOCATION"]]}
+{"text": "Suspect used vehicle KL07LM7890 to travel to Kochi.", "entities": [[21, 31, "VEHICLE"], [45, 50, "LOCATION"]]}
+{"text": "Contact was established using 9847012745 near Ernakulam junction.", "entities": [[30, 40, "PHONE"], [46, 64, "LOCATION"]]}
+{"text": "It is believed that Arun George manages City Fresh Bakery.", "entities": [[20, 31, "PERSON"], [40, 57, "ORGANIZATION"]]}
+{"text": "The properties in Pathanamthitta are owned by Apex Shipping Corp.", "entities": [[18, 32, "LOCATION"], [46, 64, "ORGANIZATION"]]}
+{"text": "Suspect used vehicle KL07GH9090 to travel to Kozhikode.", "entities": [[21, 31, "VEHICLE"], [45, 54, "LOCATION"]]}
+{"text": "There were no significant updates during the morning briefing.", "entities": []}
+{"text": "The properties in Palakkad are owned by K.R. Motors.", "entities": [[18, 26, "LOCATION"], [40, 51, "ORGANIZATION"]]}
+{"text": "Please bring the files to the meeting room.", "entities": []}
+{"text": "There were no significant updates during the morning briefing.", "entities": []}
+{"text": "Contact was established using 9847012734 near Ernakulam.", "entities": [[30, 40, "PHONE"], [46, 55, "LOCATION"]]}
+{"text": "A call from 9847012745 to Lakshmi Menon lasted 5 minutes.", "entities": [[12, 22, "PHONE"], [26, 39, "PERSON"]]}
+{"text": "A call from 9847012723 to Radhika N. lasted 5 minutes.", "entities": [[12, 22, "PHONE"]]}
+{"text": "Contact was established using 9847012601 near Kochi.", "entities": [[30, 40, "PHONE"], [46, 51, "LOCATION"]]}
+{"text": "The shipment arrived at Fort Kochi via KL08GH3456.", "entities": [[24, 34, "LOCATION"], [39, 49, "VEHICLE"]]}
+{"text": "Haridas Menon met with Haridas Menon near Kochi to discuss logistics.", "entities": [[0, 13, "PERSON"], [23, 36, "PERSON"], [42, 47, "LOCATION"]]}
+{"text": "Vishnu Prasad met with Binoy Joseph near Kochi to discuss logistics.", "entities": [[0, 13, "PERSON"], [23, 35, "PERSON"], [41, 46, "LOCATION"]]}
+{"text": "Intelligence suggests Anwar Sadath will be in Vytilla tomorrow.", "entities": [[22, 34, "PERSON"], [46, 53, "LOCATION"]]}
+{"text": "A call from 9847012401 to Mohammed Shameer lasted 5 minutes.", "entities": [[12, 22, "PHONE"], [26, 42, "PERSON"]]}
+{"text": "Santhosh Babu was seen exiting KL07WX9900 at Kochi.", "entities": [[0, 13, "PERSON"], [31, 41, "VEHICLE"], [45, 50, "LOCATION"]]}
+{"text": "Contact was established using 9847012701 near Marine Drive.", "entities": [[30, 40, "PHONE"], [46, 58, "LOCATION"]]}
+{"text": "Contact was established using 9847012501 near Kakkanad.", "entities": [[30, 40, "PHONE"], [46, 54, "LOCATION"]]}
+{"text": "Malabar Logistics LLC transferred funds to a suspected account.", "entities": [[0, 21, "ORGANIZATION"]]}
+{"text": "Arun George met with Radhika N. near Kollam to discuss logistics.", "entities": [[0, 11, "PERSON"], [37, 43, "LOCATION"]]}
+{"text": "Radhika N. met with Deepa Varma near Palarivattom to discuss logistics.", "entities": [[20, 31, "PERSON"], [37, 49, "LOCATION"]]}
+{"text": "Suspect used vehicle KL08UV7788 to travel to Marine Drive.", "entities": [[21, 31, "VEHICLE"], [45, 57, "LOCATION"]]}
+{"text": "It is believed that Kiran Thomas manages Apex Shipping Corp.", "entities": [[20, 32, "PERSON"], [41, 59, "ORGANIZATION"]]}
+{"text": "Bilal Hassan was seen exiting KL11JK8899 at Pathanamthitta.", "entities": [[0, 12, "PERSON"], [30, 40, "VEHICLE"], [44, 58, "LOCATION"]]}
+{"text": "We intercepted a message from 9847012778 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "A call from 9847012595 to Haridas Menon lasted 5 minutes.", "entities": [[12, 22, "PHONE"], [26, 39, "PERSON"]]}
+{"text": "Deepa Varma was spotted near Palarivattom on August 20.", "entities": [[0, 11, "PERSON"], [29, 41, "LOCATION"]]}
+{"text": "We intercepted a message from 9847012415 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "Vehicle KL07WX9900 was seen at Ernakulam.", "entities": [[8, 18, "VEHICLE"], [31, 40, "LOCATION"]]}
+{"text": "Vehicle KL07CD5656 was seen at Kochi.", "entities": [[8, 18, "VEHICLE"], [31, 36, "LOCATION"]]}
+{"text": "Apex Shipping Corp transferred funds to a suspected account.", "entities": [[0, 18, "ORGANIZATION"]]}
+{"text": "A call from 9847012589 to Santhosh Babu lasted 5 minutes.", "entities": [[12, 22, "PHONE"], [26, 39, "PERSON"]]}
+{"text": "Vehicle KL07CD5656 was seen at Aluva.", "entities": [[8, 18, "VEHICLE"], [31, 36, "LOCATION"]]}
+{"text": "Apex Shipping Corp transferred funds to a suspected account.", "entities": [[0, 18, "ORGANIZATION"]]}
+{"text": "Sujith Kumar met with Rahul Das near Kozhikode to discuss logistics.", "entities": [[0, 12, "PERSON"], [22, 31, "PERSON"], [37, 46, "LOCATION"]]}
+{"text": "Please bring the files to the meeting room.", "entities": []}
+{"text": "Intelligence suggests Radhika N. will be in Vytilla tomorrow.", "entities": [[44, 51, "LOCATION"]]}
+{"text": "The properties in Marine Drive are owned by K.R. Motors.", "entities": [[18, 30, "LOCATION"], [44, 55, "ORGANIZATION"]]}
+{"text": "Suspect used vehicle KL07CD5656 to travel to Kochi.", "entities": [[21, 31, "VEHICLE"], [45, 50, "LOCATION"]]}
+{"text": "Contact was established using 9847012701 near Kochi.", "entities": [[30, 40, "PHONE"], [46, 51, "LOCATION"]]}
+{"text": "Arun George was spotted near Pathanamthitta on August 20.", "entities": [[0, 11, "PERSON"], [29, 43, "LOCATION"]]}
+{"text": "The properties in Thrissur are owned by Apex Shipping Corp.", "entities": [[18, 26, "LOCATION"], [40, 58, "ORGANIZATION"]]}
+{"text": "Santhosh Babu met with Santhosh Babu near Fort Kochi to discuss logistics.", "entities": [[0, 13, "PERSON"], [23, 36, "PERSON"], [42, 52, "LOCATION"]]}
+{"text": "There were no significant updates during the morning briefing.", "entities": []}
+{"text": "We intercepted a message from 9847012589 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "There were no significant updates during the morning briefing.", "entities": []}
+{"text": "Apex Shipping Corp transferred funds to a suspected account.", "entities": [[0, 18, "ORGANIZATION"]]}
+{"text": "The properties in Fort Kochi are owned by Malabar Logistics LLC.", "entities": [[18, 28, "LOCATION"], [42, 63, "ORGANIZATION"]]}
+{"text": "We intercepted a message from 9847012745 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "Intelligence suggests Jose Mathew will be in Alappuzha tomorrow.", "entities": [[22, 33, "PERSON"], [45, 54, "LOCATION"]]}
+{"text": "It is believed that Suresh Nair manages Apex Shipping Corp.", "entities": [[20, 31, "PERSON"], [40, 58, "ORGANIZATION"]]}
+{"text": "I will be late for the dinner tonight.", "entities": []}
+{"text": "The properties in Ernakulam are owned by K.R. Motors.", "entities": [[18, 27, "LOCATION"], [41, 52, "ORGANIZATION"]]}
+{"text": "The shipment arrived at Kochi via KL08UV7788.", "entities": [[24, 29, "LOCATION"], [34, 44, "VEHICLE"]]}
+{"text": "The system is currently undergoing maintenance.", "entities": []}
+{"text": "Suspect used vehicle KL09MN8901 to travel to Kochi.", "entities": [[21, 31, "VEHICLE"], [45, 50, "LOCATION"]]}
+{"text": "Intelligence suggests Mohammed Shameer will be in Kochi tomorrow.", "entities": [[22, 38, "PERSON"], [50, 55, "LOCATION"]]}
+{"text": "Deepa Varma was seen exiting KL09MN8901 at Aluva.", "entities": [[0, 11, "PERSON"], [29, 39, "VEHICLE"], [43, 48, "LOCATION"]]}
+{"text": "The system is currently undergoing maintenance.", "entities": []}
+{"text": "Manoj Pillai met with Lakshmi Menon near Fort Kochi to discuss logistics.", "entities": [[0, 12, "PERSON"], [22, 35, "PERSON"], [41, 51, "LOCATION"]]}
+{"text": "It is believed that Mohammed Shameer manages Apex Shipping Corp.", "entities": [[20, 36, "PERSON"], [45, 63, "ORGANIZATION"]]}
+{"text": "K.R. Motors transferred funds to a suspected account.", "entities": [[0, 11, "ORGANIZATION"]]}
+{"text": "The system is currently undergoing maintenance.", "entities": []}
+{"text": "Sunil Varghese met with Akhil Chandran near Aluva to discuss logistics.", "entities": [[0, 14, "PERSON"], [24, 38, "PERSON"], [44, 49, "LOCATION"]]}
+{"text": "Bilal Hassan was seen exiting KL07CD5656 at Willingdon Island.", "entities": [[0, 12, "PERSON"], [30, 40, "VEHICLE"], [44, 61, "LOCATION"]]}
+{"text": "Please bring the files to the meeting room.", "entities": []}
+{"text": "Contact was established using 9847012599 near Palakkad.", "entities": [[30, 40, "PHONE"], [46, 54, "LOCATION"]]}
+{"text": "Jithin Raj met with Kiran Thomas near Ernakulam junction to discuss logistics.", "entities": [[0, 10, "PERSON"], [20, 32, "PERSON"], [38, 56, "LOCATION"]]}
+{"text": "It is believed that Akhil Chandran manages City Fresh Bakery.", "entities": [[20, 34, "PERSON"], [43, 60, "ORGANIZATION"]]}
+{"text": "A call from 9847012745 to Sujith Kumar lasted 5 minutes.", "entities": [[12, 22, "PHONE"], [26, 38, "PERSON"]]}
+{"text": "Suspect used vehicle KL04YZ1212 to travel to Thiruvananthapuram.", "entities": [[21, 31, "VEHICLE"], [45, 63, "LOCATION"]]}
+{"text": "The weather today is exceptionally sunny.", "entities": []}
+{"text": "Vehicle KL07WX9900 was seen at Kozhikode.", "entities": [[8, 18, "VEHICLE"], [31, 40, "LOCATION"]]}
+{"text": "I will be late for the dinner tonight.", "entities": []}
+{"text": "Jithin Raj was seen exiting KL08GH3456 at Pathanamthitta.", "entities": [[0, 10, "PERSON"], [28, 38, "VEHICLE"], [42, 56, "LOCATION"]]}
+{"text": "The weather today is exceptionally sunny.", "entities": []}
+{"text": "A call from 9847012610 to Jose Mathew lasted 5 minutes.", "entities": [[12, 22, "PHONE"], [26, 37, "PERSON"]]}
+{"text": "Can you verify the transaction details?", "entities": []}
+{"text": "Ravi Kumar was spotted near Edappally on August 20.", "entities": [[0, 10, "PERSON"], [28, 37, "LOCATION"]]}
+{"text": "Akhil Chandran was spotted near Kochi on August 20.", "entities": [[0, 14, "PERSON"], [32, 37, "LOCATION"]]}
+{"text": "The weather today is exceptionally sunny.", "entities": []}
+{"text": "Intelligence suggests Lakshmi Menon will be in Kochi tomorrow.", "entities": [[22, 35, "PERSON"], [47, 52, "LOCATION"]]}
+{"text": "It is believed that Jose Mathew manages K.R. Motors.", "entities": [[20, 31, "PERSON"], [40, 51, "ORGANIZATION"]]}
+{"text": "K.R. Motors transferred funds to a suspected account.", "entities": [[0, 11, "ORGANIZATION"]]}
+{"text": "The properties in Mattancherry are owned by K.R. Motors.", "entities": [[18, 30, "LOCATION"], [44, 55, "ORGANIZATION"]]}
+{"text": "We intercepted a message from 9847012589 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "Contact was established using 9847012512 near Kozhikode.", "entities": [[30, 40, "PHONE"], [46, 55, "LOCATION"]]}
+{"text": "Santhosh Babu was spotted near Ernakulam on August 20.", "entities": [[0, 13, "PERSON"], [31, 40, "LOCATION"]]}
+{"text": "Suresh Nair met with Deepa Varma near Kozhikode to discuss logistics.", "entities": [[0, 11, "PERSON"], [21, 32, "PERSON"], [38, 47, "LOCATION"]]}
+{"text": "Apex Shipping Corp transferred funds to a suspected account.", "entities": [[0, 18, "ORGANIZATION"]]}
+{"text": "We intercepted a message from 9847012745 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "The weather today is exceptionally sunny.", "entities": []}
+{"text": "The shipment arrived at Kozhikode via KL07GH9090.", "entities": [[24, 33, "LOCATION"], [38, 48, "VEHICLE"]]}
+{"text": "Intelligence suggests Santhosh Babu will be in Ernakulam tomorrow.", "entities": [[22, 35, "PERSON"], [47, 56, "LOCATION"]]}
+{"text": "Contact was established using 9847012778 near Ernakulam junction.", "entities": [[30, 40, "PHONE"], [46, 64, "LOCATION"]]}
+{"text": "Vehicle KL07CD5656 was seen at Kozhikode.", "entities": [[8, 18, "VEHICLE"], [31, 40, "LOCATION"]]}
+{"text": "Intelligence suggests Deepa Varma will be in Edappally tomorrow.", "entities": [[22, 33, "PERSON"], [45, 54, "LOCATION"]]}
+{"text": "Deepa Varma met with Akhil Chandran near Kochi to discuss logistics.", "entities": [[0, 11, "PERSON"], [21, 35, "PERSON"], [41, 46, "LOCATION"]]}
+{"text": "Suspect used vehicle KL03ST5566 to travel to Fort Kochi.", "entities": [[21, 31, "VEHICLE"], [45, 55, "LOCATION"]]}
+{"text": "The shipment arrived at Palakkad via KL01EF9012.", "entities": [[24, 32, "LOCATION"], [37, 47, "VEHICLE"]]}
+{"text": "The shipment arrived at Fort Kochi via KL07WX9900.", "entities": [[24, 34, "LOCATION"], [39, 49, "VEHICLE"]]}
+{"text": "A call from 9847012790 to Sunil Varghese lasted 5 minutes.", "entities": [[12, 22, "PHONE"], [26, 40, "PERSON"]]}
+{"text": "The properties in Pathanamthitta are owned by Apex Shipping Corp.", "entities": [[18, 32, "LOCATION"], [46, 64, "ORGANIZATION"]]}
+{"text": "K.R. Motors transferred funds to a suspected account.", "entities": [[0, 11, "ORGANIZATION"]]}
+{"text": "Vehicle KL07CD5656 was seen at Fort Kochi.", "entities": [[8, 18, "VEHICLE"], [31, 41, "LOCATION"]]}
+{"text": "Contact was established using 9847012767 near Kochi.", "entities": [[30, 40, "PHONE"], [46, 51, "LOCATION"]]}
+{"text": "Can you verify the transaction details?", "entities": []}
+{"text": "City Fresh Bakery transferred funds to a suspected account.", "entities": [[0, 17, "ORGANIZATION"]]}
+{"text": "I will be late for the dinner tonight.", "entities": []}
+{"text": "The properties in Thiruvananthapuram are owned by City Fresh Bakery.", "entities": [[18, 36, "LOCATION"], [50, 67, "ORGANIZATION"]]}
+{"text": "Faisal Ali was seen exiting KL04YZ1212 at Edappally.", "entities": [[0, 10, "PERSON"], [28, 38, "VEHICLE"], [42, 51, "LOCATION"]]}
+{"text": "Manoj Pillai was spotted near Palarivattom on August 20.", "entities": [[0, 12, "PERSON"], [30, 42, "LOCATION"]]}
+{"text": "Suspect used vehicle KL07EF7878 to travel to Kochi.", "entities": [[21, 31, "VEHICLE"], [45, 50, "LOCATION"]]}
+{"text": "A call from 9847012745 to Niyas K. lasted 5 minutes.", "entities": [[12, 22, "PHONE"]]}
+{"text": "It is believed that Ravi Kumar manages K.R. Motors.", "entities": [[20, 30, "PERSON"], [39, 50, "ORGANIZATION"]]}
+{"text": "The system is currently undergoing maintenance.", "entities": []}
+{"text": "There were no significant updates during the morning briefing.", "entities": []}
+{"text": "Kiran Thomas was spotted near Kochi on August 20.", "entities": [[0, 12, "PERSON"], [30, 35, "LOCATION"]]}
+{"text": "We intercepted a message from 9847012789 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "It is believed that Lakshmi Menon manages Apex Shipping Corp.", "entities": [[20, 33, "PERSON"], [42, 60, "ORGANIZATION"]]}
+{"text": "A call from 9847012610 to Faisal Ali lasted 5 minutes.", "entities": [[12, 22, "PHONE"], [26, 36, "PERSON"]]}
+{"text": "Contact was established using 9847012734 near Fort Kochi.", "entities": [[30, 40, "PHONE"], [46, 56, "LOCATION"]]}
+{"text": "Vehicle KL07CD5656 was seen at Thrissur.", "entities": [[8, 18, "VEHICLE"], [31, 39, "LOCATION"]]}
+{"text": "Please bring the files to the meeting room.", "entities": []}
+{"text": "Sunil Varghese was spotted near Kottayam on August 20.", "entities": [[0, 14, "PERSON"], [32, 40, "LOCATION"]]}
+{"text": "Intelligence suggests Priya Kurian will be in Pathanamthitta tomorrow.", "entities": [[22, 34, "PERSON"], [46, 60, "LOCATION"]]}
+{"text": "There were no significant updates during the morning briefing.", "entities": []}
+{"text": "We intercepted a message from 9847012610 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "The weather today is exceptionally sunny.", "entities": []}
+{"text": "It is believed that Rahul Das manages Apex Shipping Corp.", "entities": [[20, 29, "PERSON"], [38, 56, "ORGANIZATION"]]}
+{"text": "Please bring the files to the meeting room.", "entities": []}
+{"text": "A call from 9847012595 to Radhika N. lasted 5 minutes.", "entities": [[12, 22, "PHONE"]]}
+{"text": "Contact was established using 9847012567 near Aluva.", "entities": [[30, 40, "PHONE"], [46, 51, "LOCATION"]]}
+{"text": "The weather today is exceptionally sunny.", "entities": []}
+{"text": "It is believed that Manoj Pillai manages K.R. Motors.", "entities": [[20, 32, "PERSON"], [41, 52, "ORGANIZATION"]]}
+{"text": "The system is currently undergoing maintenance.", "entities": []}
+{"text": "The properties in Edappally are owned by Apex Shipping Corp.", "entities": [[18, 27, "LOCATION"], [41, 59, "ORGANIZATION"]]}
+{"text": "Intelligence suggests Santhosh Babu will be in Pathanamthitta tomorrow.", "entities": [[22, 35, "PERSON"], [47, 61, "LOCATION"]]}
+{"text": "The properties in Kollam are owned by K.R. Motors.", "entities": [[18, 24, "LOCATION"], [38, 49, "ORGANIZATION"]]}
+{"text": "It is believed that Kiran Thomas manages Apex Shipping Corp.", "entities": [[20, 32, "PERSON"], [41, 59, "ORGANIZATION"]]}
+{"text": "The properties in Willingdon Island are owned by Apex Shipping Corp.", "entities": [[18, 35, "LOCATION"], [49, 67, "ORGANIZATION"]]}
+{"text": "Mohammed Shameer met with Haridas Menon near Kakkanad to discuss logistics.", "entities": [[0, 16, "PERSON"], [26, 39, "PERSON"], [45, 53, "LOCATION"]]}
+{"text": "The system is currently undergoing maintenance.", "entities": []}
+{"text": "There were no significant updates during the morning briefing.", "entities": []}
+{"text": "There were no significant updates during the morning briefing.", "entities": []}
+{"text": "Jose Mathew was spotted near Ernakulam on August 20.", "entities": [[0, 11, "PERSON"], [29, 38, "LOCATION"]]}
+{"text": "Radhika N. was spotted near Kozhikode on August 20.", "entities": [[28, 37, "LOCATION"]]}
+{"text": "Contact was established using 9847012420 near Ernakulam.", "entities": [[30, 40, "PHONE"], [46, 55, "LOCATION"]]}
+{"text": "The shipment arrived at Mattancherry via KL07AB1234.", "entities": [[24, 36, "LOCATION"], [41, 51, "VEHICLE"]]}
+{"text": "The properties in Willingdon Island are owned by Apex Shipping Corp.", "entities": [[18, 35, "LOCATION"], [49, 67, "ORGANIZATION"]]}
+{"text": "Can you verify the transaction details?", "entities": []}
+{"text": "Faisal Ali was seen exiting KL07LM7890 at Kochi.", "entities": [[0, 10, "PERSON"], [28, 38, "VEHICLE"], [42, 47, "LOCATION"]]}
+{"text": "The weather today is exceptionally sunny.", "entities": []}
+{"text": "We intercepted a message from 9847012595 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "Jose Mathew was spotted near Ernakulam junction on August 20.", "entities": [[0, 11, "PERSON"], [29, 47, "LOCATION"]]}
+{"text": "Suspect used vehicle KL01EF9012 to travel to Ernakulam junction.", "entities": [[21, 31, "VEHICLE"], [45, 63, "LOCATION"]]}
+{"text": "Lakshmi Menon was spotted near Ernakulam on August 20.", "entities": [[0, 13, "PERSON"], [31, 40, "LOCATION"]]}
+{"text": "Intelligence suggests Lakshmi Menon will be in Kochi tomorrow.", "entities": [[22, 35, "PERSON"], [47, 52, "LOCATION"]]}
+{"text": "The system is currently undergoing maintenance.", "entities": []}
+{"text": "Kiran Thomas was spotted near Kollam on August 20.", "entities": [[0, 12, "PERSON"], [30, 36, "LOCATION"]]}
+{"text": "It is believed that Sujith Kumar manages Malabar Logistics LLC.", "entities": [[20, 32, "PERSON"], [41, 62, "ORGANIZATION"]]}
+{"text": "It is believed that Kiran Thomas manages Malabar Logistics LLC.", "entities": [[20, 32, "PERSON"], [41, 62, "ORGANIZATION"]]}
+{"text": "It is believed that Akhil Chandran manages Malabar Logistics LLC.", "entities": [[20, 34, "PERSON"], [43, 64, "ORGANIZATION"]]}
+{"text": "A call from 9847012345 to Rahul Das lasted 5 minutes.", "entities": [[12, 22, "PHONE"], [26, 35, "PERSON"]]}
+{"text": "The system is currently undergoing maintenance.", "entities": []}
+{"text": "I will be late for the dinner tonight.", "entities": []}
+{"text": "The system is currently undergoing maintenance.", "entities": []}
+{"text": "The shipment arrived at Kochi via KL01EF9012.", "entities": [[24, 29, "LOCATION"], [34, 44, "VEHICLE"]]}
+{"text": "Vehicle KL08UV7788 was seen at Mattancherry.", "entities": [[8, 18, "VEHICLE"], [31, 43, "LOCATION"]]}
+{"text": "Apex Shipping Corp transferred funds to a suspected account.", "entities": [[0, 18, "ORGANIZATION"]]}
+{"text": "Intelligence suggests Niyas K. will be in Thiruvananthapuram tomorrow.", "entities": [[42, 60, "LOCATION"]]}
+{"text": "Faisal Ali was spotted near Palarivattom on August 20.", "entities": [[0, 10, "PERSON"], [28, 40, "LOCATION"]]}
+{"text": "Contact was established using 9847012545 near Aluva.", "entities": [[30, 40, "PHONE"], [46, 51, "LOCATION"]]}
+{"text": "We intercepted a message from 9847012512 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "Deepa Varma was spotted near Kottayam on August 20.", "entities": [[0, 11, "PERSON"], [29, 37, "LOCATION"]]}
+{"text": "The system is currently undergoing maintenance.", "entities": []}
+{"text": "Vehicle KL05NP1122 was seen at Ernakulam.", "entities": [[8, 18, "VEHICLE"], [31, 40, "LOCATION"]]}
+{"text": "We intercepted a message from 9847012399 at midnight.", "entities": [[30, 40, "PHONE"]]}
+{"text": "Mohammed Shameer met with Radhika N. near Ernakulam to discuss logistics.", "entities": [[0, 16, "PERSON"], [42, 51, "LOCATION"]]}
+{"text": "A call from 9847012701 to Jithin Raj lasted 5 minutes.", "entities": [[12, 22, "PHONE"], [26, 36, "PERSON"]]}
+{"text": "Contact was established using 9847012595 near Kochi.", "entities": [[30, 40, "PHONE"], [46, 51, "LOCATION"]]}
+{"text": "Contact was established using 9847012734 near Fort Kochi.", "entities": [[30, 40, "PHONE"], [46, 56, "LOCATION"]]}
+{"text": "Vehicle KL03ST5566 was seen at Thrissur.", "entities": [[8, 18, "VEHICLE"], [31, 39, "LOCATION"]]}
+{"text": "I will be late for the dinner tonight.", "entities": []}
+{"text": "Kiran Thomas met with Jose Mathew near Kollam to discuss logistics.", "entities": [[0, 12, "PERSON"], [22, 33, "PERSON"], [39, 45, "LOCATION"]]}
+{"text": "There were no significant updates during the morning briefing.", "entities": []}
+{"text": "It is believed that Bilal Hassan manages Apex Shipping Corp.", "entities": [[20, 32, "PERSON"], [41, 59, "ORGANIZATION"]]}
+{"text": "A call from 9847012622 to Santhosh Babu lasted 5 minutes.", "entities": [[12, 22, "PHONE"], [26, 39, "PERSON"]]}
+{"text": "Priya Kurian was seen exiting KL08UV7788 at Palakkad.", "entities": [[0, 12, "PERSON"], [30, 40, "VEHICLE"], [44, 52, "LOCATION"]]}
+{"text": "Vehicle KL02IJ1235 was seen at Kozhikode.", "entities": [[8, 18, "VEHICLE"], [31, 40, "LOCATION"]]}
+{"text": "Apex Shipping Corp transferred funds to a suspected account.", "entities": [[0, 18, "ORGANIZATION"]]}
+{"text": "The weather today is exceptionally sunny.", "entities": []}
+{"text": "It is believed that Ravi Kumar manages City Fresh Bakery.", "entities": [[20, 30, "PERSON"], [39, 56, "ORGANIZATION"]]}

@@ -1,0 +1,283 @@
+{
+  "info": {
+    "name": "Criminal Network Analysis System (CNA) API",
+    "description": "Comprehensive Postman collection for testing the AI-Powered Criminal Network Analysis System (SIH 2026).",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "1. System Health",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/health",
+          "host": ["{{base_url}}"],
+          "path": ["health"]
+        }
+      }
+    },
+    {
+      "name": "2. Auth - Login (Admin)",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "var jsonData = pm.response.json();",
+              "pm.environment.set('token', jsonData.access_token);"
+            ],
+            "type": "text/javascript"
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"username\": \"admin\",\n  \"password\": \"admin123\"\n}"
+        },
+        "url": {
+          "raw": "{{base_url}}/auth/login",
+          "host": ["{{base_url}}"],
+          "path": ["auth", "login"]
+        }
+      }
+    },
+    {
+      "name": "3. Auth - Login (Analyst)",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"username\": \"analyst\",\n  \"password\": \"admin123\"\n}"
+        },
+        "url": {
+          "raw": "{{base_url}}/auth/login",
+          "host": ["{{base_url}}"],
+          "path": ["auth", "login"]
+        }
+      }
+    },
+    {
+      "name": "4. Auth - Login (Investigator)",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"username\": \"investigator\",\n  \"password\": \"admin123\"\n}"
+        },
+        "url": {
+          "raw": "{{base_url}}/auth/login",
+          "host": ["{{base_url}}"],
+          "path": ["auth", "login"]
+        }
+      }
+    },
+    {
+      "name": "5. Auth - Me Profile",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "url": {
+          "raw": "{{base_url}}/auth/me",
+          "host": ["{{base_url}}"],
+          "path": ["auth", "me"]
+        }
+      }
+    },
+    {
+      "name": "6. Entity - Search Suspects",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "url": {
+          "raw": "{{base_url}}/entity/search?q=Ravi",
+          "host": ["{{base_url}}"],
+          "path": ["entity", "search"],
+          "query": [{ "key": "q", "value": "Ravi" }]
+        }
+      }
+    },
+    {
+      "name": "7. Entity - Kingpin Dossier",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "url": {
+          "raw": "{{base_url}}/entity/PER_RAVI_KUMAR",
+          "host": ["{{base_url}}"],
+          "path": ["entity", "PER_RAVI_KUMAR"]
+        }
+      }
+    },
+    {
+      "name": "8. Entity - Cytoscape Subgraph",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "url": {
+          "raw": "{{base_url}}/entity/PER_RAVI_KUMAR/graph?hops=2",
+          "host": ["{{base_url}}"],
+          "path": ["entity", "PER_RAVI_KUMAR", "graph"],
+          "query": [{ "key": "hops", "value": "2" }]
+        }
+      }
+    },
+    {
+      "name": "9. Analytics - Top Influencers (Explainable Risk)",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "url": {
+          "raw": "{{base_url}}/analytics/influencers?sort_by=risk_score&limit=10",
+          "host": ["{{base_url}}"],
+          "path": ["analytics", "influencers"],
+          "query": [
+            { "key": "sort_by", "value": "risk_score" },
+            { "key": "limit", "value": "10" }
+          ]
+        }
+      }
+    },
+    {
+      "name": "10. Analytics - Louvain Communities",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "url": {
+          "raw": "{{base_url}}/analytics/communities",
+          "host": ["{{base_url}}"],
+          "path": ["analytics", "communities"]
+        }
+      }
+    },
+    {
+      "name": "11. Analytics - Predicted Links",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "url": {
+          "raw": "{{base_url}}/analytics/link-predictions?limit=15",
+          "host": ["{{base_url}}"],
+          "path": ["analytics", "link-predictions"],
+          "query": [{ "key": "limit", "value": "15" }]
+        }
+      }
+    },
+    {
+      "name": "12. Analytics - Anomaly Alerts (Smurfing/Bursts)",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "url": {
+          "raw": "{{base_url}}/analytics/alerts",
+          "host": ["{{base_url}}"],
+          "path": ["analytics", "alerts"]
+        }
+      }
+    },
+    {
+      "name": "13. Natural Language Query (English -> Cypher)",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"question\": \"Who are the highest risk suspects in the syndicate?\"\n}"
+        },
+        "url": {
+          "raw": "{{base_url}}/query/natural-language",
+          "host": ["{{base_url}}"],
+          "path": ["query", "natural-language"]
+        }
+      }
+    },
+    {
+      "name": "14. Audit - Cryptographic Chain Verify",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "url": {
+          "raw": "{{base_url}}/audit/verify",
+          "host": ["{{base_url}}"],
+          "path": ["audit", "verify"]
+        }
+      }
+    },
+    {
+      "name": "15. Audit - View SHA-256 Blocks",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "url": {
+          "raw": "{{base_url}}/audit/logs?limit=20",
+          "host": ["{{base_url}}"],
+          "path": ["audit", "logs"],
+          "query": [{ "key": "limit", "value": "20" }]
+        }
+      }
+    },
+    {
+      "name": "16. Audit - Tamper Detection Demo (Live Hack Simulation)",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"block_id\": 1,\n  \"fake_action\": \"RECORD_MUTATED_BY_ATTACKER\"\n}"
+        },
+        "url": {
+          "raw": "{{base_url}}/audit/tamper-demo",
+          "host": ["{{base_url}}"],
+          "path": ["audit", "tamper-demo"]
+        }
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:8000"
+    },
+    {
+      "key": "token",
+      "value": ""
+    }
+  ]
+}
