@@ -61,6 +61,17 @@ uvicorn backend.main:app --host 0.0.0.0 --port 8000 --reload
 # API docs: http://localhost:8000/docs
 ```
 
+### 6. Start the React frontend
+Open a second terminal from the repository root:
+```bash
+cd frontend
+npm install
+npm run dev
+```
+Then open `http://localhost:5173`. Set `VITE_API_BASE_URL=http://localhost:8000` in `frontend/.env.local` when connecting to the FastAPI backend.
+
+The frontend includes the operational briefing, entity dossier search, network explorer surface, syndicate analytics, and immutable audit ledger views.
+
 ## Project Structure
 
 ```
